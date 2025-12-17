@@ -86,8 +86,6 @@ Before running NeuroScreen AI, ensure you have the following installed:
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
-   > **Note:** Get your Gemini API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
-
 4. **Start the development server:**
    ```bash
    npm run dev
@@ -122,7 +120,6 @@ Before running NeuroScreen AI, ensure you have the following installed:
 
 ### API Keys
 - **GEMINI_API_KEY**: Required for AI-powered response evaluation
-- Obtain from [Google AI Studio](https://makersuite.google.com/app/apikey)
 
 ### Assessment Parameters
 The assessment includes customizable elements in `constants.ts`:
@@ -224,4 +221,5 @@ Stay updated with the latest features and improvements by:
 <div align="center">
   <p><strong>Built with ❤️ for cognitive health awareness</strong></p>
   <p>Empowering early detection through technology</p>
+  <p>This is not a doctor prescribed or recommended this project is still in developing phase and have positive reviews from the doctors</p>
 </div>

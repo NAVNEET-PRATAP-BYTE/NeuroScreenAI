@@ -778,7 +778,6 @@ Performance: <100ms Gemini API latency
 ### 📱 Connect With Us
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NAVNEET-PRATAP-BYTE/NeuroScreenAI)
-[![AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/apps/drive/1GzZ3MrIiR8xaOUoYPlwrNmJ_8rT_ibBZ)
 
 ---
 

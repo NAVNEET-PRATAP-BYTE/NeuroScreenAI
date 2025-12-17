@@ -1,0 +1,17 @@
+# How to Upload to GitHub
+
+1. Initialize Git (if not done):
+   git init
+
+2. Add files:
+   git add .
+
+3. Commit changes:
+   git commit -m "Initial commit of NeuroScreen AI"
+
+4. Link to GitHub Repo:
+   git remote add origin https://github.com/NAVNEET-PRATAP-BYTE/NeuroScreenAI.git
+
+5. Push:
+   git branch -M main
+   git push -u origin main

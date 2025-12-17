@@ -1,0 +1,8 @@
+{
+  "name": "NeuroScreen AI",
+  "description": "Early dementia screening cognitive test using multimodal AI analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

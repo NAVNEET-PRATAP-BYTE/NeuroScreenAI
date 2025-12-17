@@ -1,0 +1,20 @@
+NeuroScreen AI Installation Guide
+
+1. Prerequisites:
+   - Node.js (v18+)
+   - NPM or Yarn
+   - A modern web browser with Camera/Mic support
+
+2. Setup:
+   - Clone the repository.
+   - Run `npm install` to install dependencies listed in package.json.
+   - Ensure `.env` file exists with your `API_KEY`.
+
+3. Running:
+   - Run `npm start` or `npm run dev` (depending on your build script).
+   - Open browser to http://localhost:3000
+
+4. Deployment:
+   - Build using `npm run build`.
+   - Upload the `dist/` or `build/` folder to your web host (Vercel, Netlify, etc.).
+   - Ensure environment variables are set in your hosting dashboard.
